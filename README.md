@@ -3,11 +3,7 @@ Day.fm
 
 Log your Last.fm Top Weekly Artists and Tracks to your Day One journal
 
-<<<<<<< HEAD
 !(Screenshot)[./dayfm.png]
-=======
-!(example)[http://www.mattbookpro.com/fileshare/dayfm.png]
->>>>>>> 351757f20806987449ab999ea7df7b5e4e08dfd9
 
 ---
 
