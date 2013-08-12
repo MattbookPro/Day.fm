@@ -3,6 +3,8 @@ Day.fm
 
 Log your Last.fm Top Weekly Artists and Tracks to your Day One journal
 
+!(Screenshot)[./dayfm.png]
+
 ---
 
 This simple script has a couple requirements in order to run:
