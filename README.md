@@ -3,7 +3,7 @@ Day.fm
 
 Log your Last.fm Top Weekly Artists and Tracks to your Day One journal
 
-!(Screenshot)[./dayfm.png]
+!(Screenshot)[https://raw.github.com/MattbookPro/Day.fm/master/dayfm.png]
 
 ---
 
