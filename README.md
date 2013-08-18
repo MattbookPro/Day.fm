@@ -13,14 +13,15 @@ This simple script has a couple requirements in order to run:
 
 2. Install the Day One CLI (you can get that [here](http://dayoneapp.com/downloads/dayone-cli.pkg))
 
-3. Install the Ruby JSON tools.  *(In the terminal run the command `$ gem install json`)*
+
+3. If you run into any problems with the json ruby gem, install the Ruby JSON tools.  *(In the terminal run the command `$ gem install json`)*
 
 ---
 
-For now, to run the script go into the terminal and run the following command:
+To run the script:
 
-`$ ruby [PATH TO SCRIPT]/dayfm.rb [USERNAME]`
+1. Change the `username` variable at line 95 to your Last.fm username. Save the script.
 
-*(i.e. `$ ~/Documents/dayfm.rb mattbookpro`)*
+2. Go into the terminal and run the following command: `$ ruby [PATH TO SCRIPT]/dayfm.rb` *(i.e. `$ ~/Documents/Dayfm/dayfm.rb`)*
 
 I don't like that it has to be run manually, so I've been looking into getting OS X to run it for me on a schedule (like on Sundays when the new charts for the last week are released). If anybody has any suggestions about how to do this, email me at apps@mattbookpro.com.
